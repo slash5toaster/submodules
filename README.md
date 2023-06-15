@@ -163,10 +163,6 @@ Delta compression using up to 16 threads
 Compressing objects: 100% (2/2), done.
 Writing objects: 100% (2/2), 409 bytes | 409.00 KiB/s, done.
 Total 2 (delta 0), reused 0 (delta 0), pack-reused 0
-remote:
-remote: Create a pull request for 'tagging' on GitHub by visiting:
-remote:      https://github.com/helix-clyde/submodules/pull/new/tagging
-remote:
 To github.com:helix-clyde/submodules.git
  * [new branch]      tagging -> tagging
 Branch 'tagging' set up to track remote branch 'tagging' from 'origin'.

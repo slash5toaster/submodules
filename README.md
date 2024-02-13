@@ -302,7 +302,7 @@ submodules (1.13) %
 ## [References](#References)
 
 - When to use submodules
-    - [Why you should (probably) not use submodules](https://abildskov.io/2021/03/28/why-i-hate-submodules/)
+    - [Why you should (probably) not use submodules](https://abildskov.io/Posts/Why+you+should+probably+not+use+Git+Submodules/)
     - [Using Git Submodules Effectively](https://www.philosophicalhacker.com/post/using-git-submodules-effectively/)
 -   Official Git References and tutorials
     - https://git-scm.com/book/en/v2/Git-Tools-Submodules

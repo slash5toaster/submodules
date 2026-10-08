@@ -22,7 +22,7 @@
 
 Clone a repo that uses submodules with
 
-`git clone --recursive https://github.com/helix-clyde/submodules.git`
+`git clone --recursive https://github.com/slash5toaster/submodules.git`
 
 When changing branches, use
 
@@ -163,7 +163,7 @@ Delta compression using up to 16 threads
 Compressing objects: 100% (2/2), done.
 Writing objects: 100% (2/2), 409 bytes | 409.00 KiB/s, done.
 Total 2 (delta 0), reused 0 (delta 0), pack-reused 0
-To github.com:helix-clyde/submodules.git
+To github.com:slash5toaster/submodules.git
  * [new branch]      tagging -> tagging
 Branch 'tagging' set up to track remote branch 'tagging' from 'origin'.
 
@@ -174,7 +174,7 @@ Delta compression using up to 16 threads
 Compressing objects: 100% (2/2), done.
 Writing objects: 100% (2/2), 326 bytes | 326.00 KiB/s, done.
 Total 2 (delta 0), reused 0 (delta 0), pack-reused 0
-To github.com:helix-clyde/submodules.git
+To github.com:slash5toaster/submodules.git
  * [new tag]         1.0 -> 1.0
 ```
 ----
@@ -182,10 +182,10 @@ To github.com:helix-clyde/submodules.git
 ## [Cloning](#Cloning)
 
 Just doing a git clone will _not_ pull the submodules<br>
-Running `git clone https://github.com/helix-clyde/submodules.git` will pull the repository, but will not checkout the submodules e.g.
+Running `git clone https://github.com/slash5toaster/submodules.git` will pull the repository, but will not checkout the submodules e.g.
 
 ```bash
-git clone https://github.com/helix-clyde/submodules.git submodules_bare
+git clone https://github.com/slash5toaster/submodules.git submodules_bare
 Cloning into 'submodules_bare'...
 remote: Enumerating objects: 13, done.
 remote: Counting objects: 100% (13/13), done.
@@ -231,7 +231,7 @@ or you can run this bash snippet
       done
 ```
 
-Run `git clone --recursive https://github.com/helix-clyde/submodules.git` to do the full checkout
+Run `git clone --recursive https://github.com/slash5toaster/submodules.git` to do the full checkout
 
 * * *
 
